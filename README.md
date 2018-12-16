@@ -37,7 +37,7 @@ Check
 
 ***
 
-<h2 align="center">Don(t know where to start 💅</h2>
+<h2 align="center">Wouldn't know where to start 💅</h2>
 <p align="center"><img src="https://media.giphy.com/media/W5ftcWq1JGE24/giphy.gif" alt="Boo"/></p>
   
 ***
