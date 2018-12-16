@@ -8,7 +8,7 @@
 
 ***
 
-## Item 51 Keep hydrated :water:
+## Item 51 Keep hydrated :droplet:
 
 _**Nathan loves cycling.
 Because Nathan knows it is important to stay hydrated, he drinks 0.5 litres of water per hour of cycling.  
