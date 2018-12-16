@@ -38,7 +38,7 @@ Check
 ***
 
 <h2 align="center">Don(t know where to start 💅</h2>
-<p align="center"><img src="https://media.giphy.com/media/3o85xvAaEm8nPHWMco/giphy.gif" alt="Boo"/></p>
+<p align="center"><img src="https://media.giphy.com/media/W5ftcWq1JGE24/giphy.gif" alt="Boo"/></p>
   
 ***
 
