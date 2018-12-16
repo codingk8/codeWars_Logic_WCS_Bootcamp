@@ -20,7 +20,7 @@ time = 11.8--> litres = 5**_
 
 [Play](https://www.codewars.com/kata/keep-hydrated-1)
 
-[Check](#)
+[Check](https://github.com/codingk8/codeWars_Logic_WCS_Bootcamp/blob/master/51_keep_hydrated.js)
 
 ## Item 52
 
