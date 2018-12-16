@@ -22,7 +22,7 @@ time = 11.8--> litres = 5**_
 
 [Check](https://github.com/codingk8/codeWars_Logic_WCS_Bootcamp/blob/master/51_keep_hydrated.js)
 
-## Item 52
+## Item 52 (soon)
 
 [Play](#)
 
@@ -30,9 +30,23 @@ time = 11.8--> litres = 5**_
 
 ## Item 53 (soon)
 
-Play
+[Play](#)
 
-Check
+[Check](#)
+
+## Item 54 (soon)
+
+## Item 55 (soon)
+
+## Item 56 (soon)
+
+## Item 57 (soon)
+
+## Item 58 (soon)
+
+## Item 59 (soon)
+
+## Item 510 (soon)
 
 
 ***
