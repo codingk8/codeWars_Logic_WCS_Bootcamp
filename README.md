@@ -22,7 +22,7 @@ time = 11.8--> litres = 5**_
 
 [Check](https://github.com/codingk8/codeWars_Logic_WCS_Bootcamp/blob/master/51_keep_hydrated.js)
 
-## Item 52 Dollars and Cents :dollars:
+## Item 52 Dollars and Cents :moneybag:
 
 _**The company you work for has just been awarded a contract to build a payment gateway. In order to help move things along, you have volunteered to create a function that will take a float and return the amount formatting in dollars and cents.  
 ```js
