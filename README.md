@@ -33,7 +33,7 @@ Examples:**_
 ```js
 3 needs to become $3.00
 3.1 needs to become $3.10
-```
+````
 _**Good luck! Your team knows they can count on you!**_
 
 [Play](https://www.codewars.com/kata/dollars-and-cents)
