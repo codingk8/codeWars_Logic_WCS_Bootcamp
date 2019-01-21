@@ -1,6 +1,6 @@
 <h1 align="center">codeWars_Logic_WCS_Bootcamp</h1>
 <h2 align="center">Wild Code School CodeWars package about logic :ghost:</h2>
-<h4 align="center"><i>Last update: 20181216</i></h4>
+<h4 align="center"><i>Last update: 20190121</i></h4>
 
 ***
 
