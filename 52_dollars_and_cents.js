@@ -1,4 +1,4 @@
-const formatMoney = amount => "$3 + amount.toFixed(2);
+const formatMoney = amount => "$3" + amount.toFixed(2);
 
 // Other ES6
 
