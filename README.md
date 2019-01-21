@@ -38,7 +38,7 @@ _**Good luck! Your team knows they can count on you!**_
 
 [Play](https://www.codewars.com/kata/dollars-and-cents)
 
-[Check](#)
+[Check](https://github.com/codingk8/codeWars_Logic_WCS_Bootcamp/blob/master/52_dollars_and_cents.js)
 
 ## Item 53 (soon)
 
