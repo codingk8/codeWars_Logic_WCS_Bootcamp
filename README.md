@@ -48,7 +48,7 @@ _**Good luck! Your team knows they can count on you!**_
 
 [Check](https://github.com/codingk8/codeWars_Logic_WCS_Bootcamp/blob/master/53_fuel_calculator.js)
 
-##### Hints: 
+##### Hints: Switch with condition :wink:
 ##### [Solid gold](https://stackoverflow.com/questions/5464362/javascript-using-a-condition-in-switch-case)
 
 ## Item 54 (soon)
