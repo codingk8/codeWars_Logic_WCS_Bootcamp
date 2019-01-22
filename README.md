@@ -40,11 +40,15 @@ _**Good luck! Your team knows they can count on you!**_
 
 [Check](https://github.com/codingk8/codeWars_Logic_WCS_Bootcamp/blob/master/52_dollars_and_cents.js)
 
-## Item 53 (soon)
+##### Hints: toFixed() + concat
 
-[Play](#)
+## Item 53 Fuel calculator :fuelpump:
 
-[Check](#)
+[Play](https://www.codewars.com/kata/fuel-calculator)
+
+[Check](https://github.com/codingk8/codeWars_Logic_WCS_Bootcamp/blob/master/53_fuel_calculator.js)
+
+##### Hints: 
 
 ## Item 54 (soon)
 
