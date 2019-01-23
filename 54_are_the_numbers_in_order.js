@@ -33,5 +33,11 @@ function inAscOrder(arr) {
   } 
 }
 
+// Ça aussi ça fonctionne bien, pour creuser le fonctionnement de every()
+
+function inAscOrder(arr) {
+  return arr.every((_,i) => i === 0 || arr[i] > arr[i-1]);
+}
+
 
 // This is it ! :-)
