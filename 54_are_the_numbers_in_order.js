@@ -39,5 +39,6 @@ function inAscOrder(arr) {
   return arr.every((_,i) => i === 0 || arr[i] > arr[i-1]);
 }
 
+// Autres possibilités avec reduce() et sort() mais pas fluide
 
 // This is it ! :-)
