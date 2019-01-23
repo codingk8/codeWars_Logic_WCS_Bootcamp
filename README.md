@@ -51,7 +51,13 @@ _**Good luck! Your team knows they can count on you!**_
 ##### Hints: Switch with condition :wink:
 ##### [Solid gold](https://stackoverflow.com/questions/5464362/javascript-using-a-condition-in-switch-case)
 
-## Item 54 (soon)
+## Item 54 Are the numbers in order? :two: :seven: :six:
+
+[Play](https://www.codewars.com/kata/are-the-numbers-in-order)
+
+[Check](#)
+
+##### Hints: 
 
 ## Item 55 (soon)
 
